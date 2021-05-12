@@ -6,13 +6,11 @@ Evernote, Notion, Confluence, etc, are simply unnecessary.
 
 
 ## How to share and sync content
-   
-   dropbox
+
+    dropbox
     google drive
     github
     rsync
-
-
 
 ## Projects
 
